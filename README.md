@@ -14,7 +14,7 @@ For those who bought it and don't know what to do with it.
 
 3) Install the required packages (more could be needed, sorry!):
 ```
-sudo apt-get install  build-essential git lzip ncurses-dev minicom
+sudo apt-get install  build-essential git lzip ncurses-dev python unzip bc minicom
 ```
 4) Cd inside the repository and now you can make two targets:
     - **csky_gx6605s_br_defconfig**: Interact with a UART (115200 8N1) connection in the serial terminal
